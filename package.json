@@ -1,0 +1,26 @@
+{
+  "name": "cachemate",
+  "version": "0.1.0",
+  "author": "Dmitry Udovichenko <d.udovichenko@gmail.com> (https://pixeljam.studio)",
+  "description": "A CLI tool designed to store checksums of source files and validate the currency of their optimized versions, preventing unnecessary builds.",
+  "keywords": [
+    "cache",
+    "cli",
+    "hash",
+    "optimization",
+    "build",
+    "CI"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pxjam/cachemate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pxjam/cachemate/issues"
+  },
+  "homepage": "https://github.com/pxjam/cachemate#readme",
+  "devDependencies": {}
+}
